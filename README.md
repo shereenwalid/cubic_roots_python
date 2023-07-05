@@ -18,4 +18,4 @@ matplotlib
 # Package
 You can find the package on pypi 
 https://pypi.org/project/Cubic-solver/0.1/#files or download it through terminal using this command
-pip install Cubic-solver==0.1
+-- pip install Cubic-solver==0.1 --
